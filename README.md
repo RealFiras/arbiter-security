@@ -57,10 +57,10 @@ Arbiter is an advanced OSINT and forensic analysis tool designed for SOC analyst
 ---
 
 ## 📸 Screenshots
-
 ![Dashboard View](static/pic1.png)
 ![Dashboard View](static/pic2.png)
 ![Dashboard View](static/pic3.png)
+
 ---
 
 ## ⚠️ Disclaimer
